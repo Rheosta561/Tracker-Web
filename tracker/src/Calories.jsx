@@ -156,7 +156,7 @@ function Calories() {
           </form>
         )}
 
-        <div className="flex justify-center fixed bottom-10 items-center  h-10 mt-5">
+        <div className="flex justify-center fixed bottom-4 items-center  h-10 mt-5">
           <p className="text-sm font-medium">Powered By</p>
           <img src={logo} alt="" className="h-full " />
         </div>
